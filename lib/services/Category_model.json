@@ -1,0 +1,106 @@
+{
+    "Categories":[{
+        "name":"Men's Ring",
+        "subcategory":[
+            "Gold Rings",
+            "Silver Rings",
+            "Daimond Rings",
+            "Artifical Rings"
+        ]
+    },
+    {
+        "name": "Men's Chains",
+        "subcategory":[
+            "Gold Chains",
+            "Silver Chains",
+            "Daimond Chains",
+            "Artifical Chains"
+        ]
+    },
+    {
+        "name": "Men's Kundal",
+        "subcategory":[
+            "Gold Kundal",
+            "Silver Kundal",
+            "Daimond Kundal",
+            "Artifical Kundal"
+        ]
+    },
+    {
+        "name": "Men's Bracellts",
+        "subcategory":[
+            "Gold Bracellts",
+            "Silver Bracellts",
+            "Daimond Bracellts",
+            "Artifical Bracellts"
+        ]
+    },
+    {
+        "name": "Temple Store",
+        "subcategory":[
+            "Gold Desgin",
+            "Silver Desgin",
+            "Daimond Desgin",
+            "Artifical Desgin"
+        ]
+    },
+    {
+        "name": "Women's Necklace",
+        "subcategory":[
+            "Gold Necklace",
+            "Silver Necklace",
+            "Daimond Necklace",
+            "Artifical Necklace"
+        ]
+    },
+    {
+        "name": "Women's Ring",
+        "subcategory":[
+            "Gold Rings",
+            "Silver Rings",
+            "Daimond Rings",
+            "Artifical Rings"
+        ]
+    },
+    {
+        "name": "Women's Bangles",
+        "subcategory":[
+            "Gold Bangle's",
+            "Silver Bangle's",
+            "Daimond Bangle's",
+            "Artifical Bangle's"
+        ]
+    },
+
+
+
+
+    {
+        "name": "Women's Bracellts",
+        "subcategory":[
+            "Gold Bracellts",
+            "Silver Bracellts",
+            "Daimond Bracellts",
+            "Artifical Bracellts"
+        ]
+    },
+    {
+        "name": "Women's Earrings",
+        "subcategory":[
+            "Gold Earrings",
+            "Silver Earrings",
+            "Daimond Earrings",
+            "Artifical Earrings"
+        ]
+    },
+    
+    {
+        "name": "Articles",
+        "subcategory":[
+            "Gold Articles",
+            "Silver Articles",
+            "Daimond Articles"
+        ]
+    }
+]
+}
